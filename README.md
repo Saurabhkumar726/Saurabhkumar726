@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="90%" />
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 I’m Saurabh Kumar, a passionate Full Stack Developer with experience in ASP.NET Core, JavaScript, TypeScript, and Python. I love building scalable web applications, solving complex problems, and continuously learning new technologies.<br><br>🔹 Tech Stack: ASP.NET Core, JavaScript, TypeScript, React, SQL, Flask<br>🔹 Projects: Expense Tracker, SkyCast-App<br>🔹 Certifications: Python, JavaScript, SQL, Web Development<br>🔹 Internship: Frontend Intern at Intugratic Solutions Pvt. Ltd.<br><br>🚀 Currently seeking new opportunities to grow as a developer and contribute to impactful projects!<br><br>📫 Connect with me:<br>📧 sauravzoner@gmail.com | 🔗 https://www.linkedin.com/in/the-saurabhkumar/| 💻 https://github.com/Saurabhkumar726
